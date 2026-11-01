@@ -1,0 +1,1032 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>nova</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20261029123229QKLJKL</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20261029123229FQE6NW</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.6</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Proyecto: &quot;Puente Digital&quot;.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Trabajado realizado para educación permanente (ESPA).</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Manuel Jesús Carrasco Fuentes.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Proyecto didáctico interactivo enfocado a la competencia digital para el nivel de Educación Secundaria de Personas Adultas (ESPA Nivel II). Diseñado para estructurar el aprendizaje asíncrono, la curación de contenidos, la colaboración y la evaluación criterial mediante estrategias flexibles.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>nova</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.6</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1793563343330</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_passScore</key>
+    <value>5</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_passScoreEveryActivity</key>
+    <value>false</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>959cdce7-da4a-46a1-ba7a-fd9a576c1c94</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación y descripción del proyecto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>959cdce7-da4a-46a1-ba7a-fd9a576c1c94</odePageId>
+      <odeBlockId>block-mvtgaed9-zxlu4pr3n</odeBlockId>
+      <blockName>Presentación y descripción del proyecto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>959cdce7-da4a-46a1-ba7a-fd9a576c1c94</odePageId>
+          <odeBlockId>block-mvtgaed9-zxlu4pr3n</odeBlockId>
+          <odeIdeviceId>idevice-1793272740666-0skkufaat</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Proyecto: “Puente digital: aprender sin distancias en la Educación Permanente”</strong></p>
+<p><strong>1. Elementos descriptivos del proyecto       </strong></p>
+<p><span style="text-decoration: underline;">Centro de interés o temática</span>: Creación, organización y difusión de píldoras audiovisuales educativas (videotutoriales) para garantizar la continuidad del estudio y superar las barreras de asistencia derivadas de la estacionalidad laboral (campaña de la aceituna y cualquier situación familiar/laboral).</p>
+<p><span style="text-decoration: underline;">Nivel al que va dirigido</span>: Educación Secundaria para Adultos (ESPA) / Educación Permanente.</p>
+<p><span style="text-decoration: underline;">Temporalización aproximada</span>: Durante todo el curso (dependerá de la dificultad de los contenidos y de periodos de mayor intensidad laboral).</p>
+<p><span style="text-decoration: underline;">Materia o materias implicadas</span>: Ámbito de Comunicación (lengua) / Ámbito Científico Tecnológico (Nivel II de ESPA).</p>
+<p><span style="text-decoration: underline;">Idioma</span>: Castellano.</p>
+<p><span style="text-decoration: underline;">Descripción general</span>: El proyecto busca dotar al alumnado adulto de herramientas asíncronas de aprendizaje mediante la creación de un canal educativo en YouTube con videotutoriales explicativos de los contenidos clave. Se acompaña de pautas de curación de contenidos, guías de acceso digital y actividades flexibles adaptadas a personas con disponibilidad temporal limitada.</p>
+<p><br /><strong>2. Justificación de la elección</strong></p>
+<p>La elección de este proyecto responde directamente a las conclusiones obtenidas en la rutina de pensamiento previa sobre la realidad educativa de la Educación Permanente en Mancha Real (Jaén).</p>
+<p><span style="text-decoration: underline;">Alineación con el contexto</span>: La alta tasa de absentismo temporal provocada por la campaña de recogida de la aceituna genera una brecha en el aprendizaje que no puede cubrirse únicamente con la docencia presencial tradicional.</p>
+<p><span style="text-decoration: underline;">Estrategia frente a la incertidumbre</span>: Se implementa una solución tecnológica transformadora basada en el diseño de contenidos audiovisuales accesibles desde cualquier dispositivo móvil. De este modo, se mitiga la frustración del alumnado adulto, se reduce el riesgo de abandono escolar y se gestiona la incertidumbre derivada de la falta de tiempo, garantizando la equidad y la flexibilidad en el derecho a la educación permanente.<br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793272740666-0skkufaat","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Proyecto: “Puente digital: aprender sin distancias en la Educación Permanente”</strong></p>\n<p><strong>1. Elementos descriptivos del proyecto       </strong></p>\n<p><span style=\"text-decoration: underline;\">Centro de interés o temática</span>: Creación, organización y difusión de píldoras audiovisuales educativas (videotutoriales) para garantizar la continuidad del estudio y superar las barreras de asistencia derivadas de la estacionalidad laboral (campaña de la aceituna y cualquier situación familiar/laboral).</p>\n<p><span style=\"text-decoration: underline;\">Nivel al que va dirigido</span>: Educación Secundaria para Adultos (ESPA) / Educación Permanente.</p>\n<p><span style=\"text-decoration: underline;\">Temporalización aproximada</span>: Durante todo el curso (dependerá de la dificultad de los contenidos y de periodos de mayor intensidad laboral).</p>\n<p><span style=\"text-decoration: underline;\">Materia o materias implicadas</span>: Ámbito de Comunicación (lengua) / Ámbito Científico Tecnológico (Nivel II de ESPA).</p>\n<p><span style=\"text-decoration: underline;\">Idioma</span>: Castellano.</p>\n<p><span style=\"text-decoration: underline;\">Descripción general</span>: El proyecto busca dotar al alumnado adulto de herramientas asíncronas de aprendizaje mediante la creación de un canal educativo en YouTube con videotutoriales explicativos de los contenidos clave. Se acompaña de pautas de curación de contenidos, guías de acceso digital y actividades flexibles adaptadas a personas con disponibilidad temporal limitada.</p>\n<p><br /><strong>2. Justificación de la elección</strong></p>\n<p>La elección de este proyecto responde directamente a las conclusiones obtenidas en la rutina de pensamiento previa sobre la realidad educativa de la Educación Permanente en Mancha Real (Jaén).</p>\n<p><span style=\"text-decoration: underline;\">Alineación con el contexto</span>: La alta tasa de absentismo temporal provocada por la campaña de recogida de la aceituna genera una brecha en el aprendizaje que no puede cubrirse únicamente con la docencia presencial tradicional.</p>\n<p><span style=\"text-decoration: underline;\">Estrategia frente a la incertidumbre</span>: Se implementa una solución tecnológica transformadora basada en el diseño de contenidos audiovisuales accesibles desde cualquier dispositivo móvil. De este modo, se mitiga la frustración del alumnado adulto, se reduce el riesgo de abandono escolar y se gestiona la incertidumbre derivada de la falta de tiempo, garantizando la equidad y la flexibilidad en el derecho a la educación permanente.<br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mvtgccp3-hze6sayst</odePageId>
+  <odeParentPageId>959cdce7-da4a-46a1-ba7a-fd9a576c1c94</odeParentPageId>
+  <pageName>Protección de datos y garantías de derechos digitales</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos y garantías de derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos y garantías de derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Protección de datos y garantías de derechos digitales</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mvtgccp3-hze6sayst</odePageId>
+      <odeBlockId>block-mvtgdywz-iv1rn09mb</odeBlockId>
+      <blockName>Guía de seguridad y derechos digitales</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvtgccp3-hze6sayst</odePageId>
+          <odeBlockId>block-mvtgdywz-iv1rn09mb</odeBlockId>
+          <odeIdeviceId>idevice-1793272907266-meipirkjy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Infografía.jpg" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793272907266-meipirkjy","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Infografía.jpg\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mvth4404-fs1bkdt5q</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mvth4404-fs1bkdt5q</odePageId>
+      <odeBlockId>block-mvtigeyy-494z0arsx</odeBlockId>
+      <blockName>Guía didáctica</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvth4404-fs1bkdt5q</odePageId>
+          <odeBlockId>block-mvtigeyy-494z0arsx</odeBlockId>
+          <odeIdeviceId>idevice-1793276380617-b9cvqrp7q</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En los subapartados se detallan los diferentes contenidos que configuran esta guía didáctica.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793276380617-b9cvqrp7q","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En los subapartados se detallan los diferentes contenidos que configuran esta guía didáctica.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mvth7jbw-8tgmv5clh</odePageId>
+  <odeParentPageId>page-mvth4404-fs1bkdt5q</odeParentPageId>
+  <pageName>Producto final</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mvth7jbw-8tgmv5clh</odePageId>
+      <odeBlockId>block-mvth8yas-13u8ybyme</odeBlockId>
+      <blockName>Características del producto final</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvth7jbw-8tgmv5clh</odePageId>
+          <odeBlockId>block-mvth8yas-13u8ybyme</odeBlockId>
+          <odeIdeviceId>idevice-1793274352801-ujrk1cv3n</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para el desarrollo y la elaboración del producto final de mi proyecto enfocado a la Educación Permanente en Mancha Real (Jaén), la herramienta digital principal que propondré a mi alumnado es la plataforma YouTube combinada con la herramienta de autor eXeLearning.</p>
+<p><span style="text-decoration: underline;">Objetivo de su uso</span>: Facilitar el acceso asíncrono a píldoras formativas y videotutoriales explicativos que permitan al alumnado adulto continuar con su proceso de aprendizaje y seguir el ritmo de las unidades didácticas a pesar de las ausencias prolongadas provocadas por periodos de alta intensidad laboral, como la campaña de la aceituna.<br />Justificación de la elección:</p>
+<p><span style="text-decoration: underline;">Versatilidad y accesibilidad</span>: YouTube es una plataforma universal que no requiere la instalación de software complejo y es compatible con cualquier dispositivo móvil, reduciendo al máximo la brecha digital instrumental.<br /></p>
+<p><span style="text-decoration: underline;">Características del alumnado</span>: El perfil de nuestros estudiantes adultos requiere formatos visuales y directos que puedan pausar, repetir y consultar fuera del horario lectivo.<br /></p>
+<p><span style="text-decoration: underline;">Contexto del centro</span>: Se adapta plenamente a las necesidades de flexibilidad y conciliación de la Educación Permanente en entornos rurales andaluces, garantizando que la falta de asistencia presencial puntual no suponga un obstáculo insalvable para el éxito académico.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793274352801-ujrk1cv3n","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para el desarrollo y la elaboración del producto final de mi proyecto enfocado a la Educación Permanente en Mancha Real (Jaén), la herramienta digital principal que propondré a mi alumnado es la plataforma YouTube combinada con la herramienta de autor eXeLearning.</p>\n<p><span style=\"text-decoration: underline;\">Objetivo de su uso</span>: Facilitar el acceso asíncrono a píldoras formativas y videotutoriales explicativos que permitan al alumnado adulto continuar con su proceso de aprendizaje y seguir el ritmo de las unidades didácticas a pesar de las ausencias prolongadas provocadas por periodos de alta intensidad laboral, como la campaña de la aceituna.<br />Justificación de la elección:</p>\n<p><span style=\"text-decoration: underline;\">Versatilidad y accesibilidad</span>: YouTube es una plataforma universal que no requiere la instalación de software complejo y es compatible con cualquier dispositivo móvil, reduciendo al máximo la brecha digital instrumental.<br /></p>\n<p><span style=\"text-decoration: underline;\">Características del alumnado</span>: El perfil de nuestros estudiantes adultos requiere formatos visuales y directos que puedan pausar, repetir y consultar fuera del horario lectivo.<br /></p>\n<p><span style=\"text-decoration: underline;\">Contexto del centro</span>: Se adapta plenamente a las necesidades de flexibilidad y conciliación de la Educación Permanente en entornos rurales andaluces, garantizando que la falta de asistencia presencial puntual no suponga un obstáculo insalvable para el éxito académico.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mvthawuz-37oj7txye</odePageId>
+  <odeParentPageId>page-mvth4404-fs1bkdt5q</odeParentPageId>
+  <pageName>Herramientas para la curación de contenidos</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas para la curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas para la curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mvthawuz-37oj7txye</odePageId>
+      <odeBlockId>block-mvthboio-6wxzem1bq</odeBlockId>
+      <blockName>Herramientas de curación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvthawuz-37oj7txye</odePageId>
+          <odeBlockId>block-mvthboio-6wxzem1bq</odeBlockId>
+          <odeIdeviceId>idevice-1793274480095-au1eeeruh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Las herramientas usadas para la curación de contenidos serán dos:</p>
+<p><strong title="">1 - Herramienta seleccionada para la curación de contenidos para el alumnado: <a href="https://www.symbaloo.com/shared/AAAACIcZo0wAA42AhbDOOw==" target="_blank" rel="noopener">symbaloo</a>.</strong></p>
+<p><span style="text-decoration: underline;">Contenidos del tablero</span>: canal de videotutoriales educativos (YouTube), enlaces directos a las herramientas de Google más utilizadas y a los contenidos oficiales publicados por la Junta de Andalucía en relación al temario, así como otras herramientas de edición y creación de imágenes on line. </p>
+<p><strong title="">2 - Herramienta seleccionada para la curación de contenidos en relación a la gestión docente: <a href="https://padlet.com/manuelcarrascofuentes/gestion-docente-s024ygepxpss9jviqazg" target="_blank" rel="noopener">padlet</a>.</strong></p>
+<p><span style="text-decoration: underline;">Finalidad</span>: Selección de aplicaciones, tutoriales y repositorios que utilizo en mi práctica docente diaria para la gestión de aula, creación de materiales y coordinación en Educación Permanente.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793274480095-au1eeeruh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Las herramientas usadas para la curación de contenidos serán dos:</p>\n<p><strong title=\"\">1 - Herramienta seleccionada para la curación de contenidos para el alumnado: <a href=\"https://www.symbaloo.com/shared/AAAACIcZo0wAA42AhbDOOw==\" target=\"_blank\" rel=\"noopener\">symbaloo</a>.</strong></p>\n<p><span style=\"text-decoration: underline;\">Contenidos del tablero</span>: canal de videotutoriales educativos (YouTube), enlaces directos a las herramientas de Google más utilizadas y a los contenidos oficiales publicados por la Junta de Andalucía en relación al temario, así como otras herramientas de edición y creación de imágenes on line. </p>\n<p><strong title=\"\">2 - Herramienta seleccionada para la curación de contenidos en relación a la gestión docente: <a href=\"https://padlet.com/manuelcarrascofuentes/gestion-docente-s024ygepxpss9jviqazg\" target=\"_blank\" rel=\"noopener\">padlet</a>.</strong></p>\n<p><span style=\"text-decoration: underline;\">Finalidad</span>: Selección de aplicaciones, tutoriales y repositorios que utilizo en mi práctica docente diaria para la gestión de aula, creación de materiales y coordinación en Educación Permanente.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mvthets6-db0nop7ec</odePageId>
+  <odeParentPageId>page-mvth4404-fs1bkdt5q</odeParentPageId>
+  <pageName>Línea temporal del proyecto</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Línea temporal del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mvthets6-db0nop7ec</odePageId>
+      <odeBlockId>block-mvthgq27-8evvzp7id</odeBlockId>
+      <blockName>Cronograma</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvthets6-db0nop7ec</odePageId>
+          <odeBlockId>block-mvthgq27-8evvzp7id</odeBlockId>
+          <odeIdeviceId>idevice-1793274715372-o3ujp9pj8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/mceclip0.jpg" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793274715372-o3ujp9pj8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/mceclip0.jpg\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mvth6eor-mcgpe0dcd</odePageId>
+  <odeParentPageId>page-mvth4404-fs1bkdt5q</odeParentPageId>
+  <pageName>Criterios de evaluación</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mvth6eor-mcgpe0dcd</odePageId>
+      <odeBlockId>block-mvth6ksr-wdouhrhz0</odeBlockId>
+      <blockName>Guía didáctica - Criterios de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvth6eor-mcgpe0dcd</odePageId>
+          <odeBlockId>block-mvth6ksr-wdouhrhz0</odeBlockId>
+          <odeIdeviceId>idevice-1793273018284-8026dbznh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" class="exe-table" style="width: 100%; border-color: #000000; border-style: solid; margin-left: auto; margin-right: auto;">
+<tbody>
+<tr>
+<td style="width: 19.980971%; text-align: center;">
+<h6><strong>TAREA</strong></h6>
+</td>
+<td style="width: 19.980971%; text-align: center;">
+<h6><strong>CRITERIO DE EVALUACIÓN</strong></h6>
+</td>
+<td style="width: 19.980971%; text-align: center;">
+<h6><strong>AGRUPAMIENTO</strong></h6>
+</td>
+<td style="width: 19.980971%; text-align: center;">
+<h6><strong>TIEMPO APROXIMADO</strong></h6>
+</td>
+<td style="width: 19.980971%; text-align: center;">
+<h6><strong>HERRAMIENTA QUE SE LE SUGERIRÁ AL ALUMNADO</strong></h6>
+</td>
+</tr>
+<tr>
+<td style="width: 19.980971%; text-align: center;"><strong>Tarea 1:</strong> Diagnóstico e identidad digital segura (acceso al muro inicial, lectura de normas de netiqueta y autoevaluación inicial de competencia digital).<br /></td>
+<td style="width: 19.980971%; text-align: center;"><strong>Criterio 1.1:</strong> Utilizar las tecnologías digitales de manera segura, responsable y crítica en la búsqueda, selección y gestión de la información.<br /></td>
+<td style="width: 19.980971%; text-align: center;"> Individual<br /></td>
+<td style="width: 19.980971%; text-align: center;"> 2 sesiones (100 min)<br /></td>
+<td style="width: 19.980971%; text-align: center;"> Padlet / Google Workspace (para diagnóstico y lectura)<br /></td>
+</tr>
+<tr>
+<td style="width: 19.980971%; text-align: center;"><strong>Tarea 2:</strong> Curación y análisis crítico de contenidos (revisión de píldoras explicativas/vídeos y cotejo de información con licencias abiertas).<br /></td>
+<td style="width: 19.980971%; text-align: center;"><strong>Criterio 2.3:</strong> Filtrar y contrastar la información obtenida en entornos digitales para la elaboración de productos propios.<br /></td>
+<td style="width: 19.980971%; text-align: center;"> Pequeño grupo<br /></td>
+<td style="width: 19.980971%; text-align: center;"> 4 sesiones (200 min)<br /></td>
+<td style="width: 19.980971%; text-align: center;"> Canva / Genially / eXeLearning (H5P)<br /></td>
+</tr>
+<tr>
+<td style="width: 19.980971%; text-align: center;"><strong>Tarea 3:</strong> Elaboración interactiva del producto final (diseño de una síntesis visual o realización de actividades interactivas sobre la unidad).<br /></td>
+<td style="width: 19.980971%; text-align: center;"><strong>Criterio 3.2:</strong> Producir contenidos digitales en distintos formatos aplicando pautas de accesibilidad y respetando la propiedad intelectual.<br /></td>
+<td style="width: 19.980971%; text-align: center;"> Pequeño grupo<br /></td>
+<td style="width: 19.980971%; text-align: center;"> 4 sesiones (200 min)<br /></td>
+<td style="width: 19.980971%; text-align: center;"> Canva / Genially / eXeLearning (H5P)<br /></td>
+</tr>
+<tr>
+<td style="width: 19.980971%; text-align: center;"><strong>Tarea 4:</strong> Difusión y coevaluación en entorno seguro (publicación del trabajo, feedback entre iguales con netiqueta y reflexión final).<br /></td>
+<td style="width: 19.980971%; text-align: center;"><strong>Criterio 4.1:</strong> Comunicarse y colaborar en entornos digitales siguiendo las pautas de netiqueta e interacción positiva.<br /></td>
+<td style="width: 19.980971%; text-align: center;"> Gran grupo / Individual<br /></td>
+<td style="width: 19.980971%; text-align: center;"> 2 sesiones (100 min)<br /></td>
+<td style="width: 19.980971%; text-align: center;"> Padlet / Moodle (Aula Virtual)<br /></td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+<p><strong>Para resolver con garantía las incidencias técnicas que puedan surgir durante la práctica docente con tecnologías en el aula, planteo un protocolo estructurado en tres niveles:</strong></p>
+<p><span style="text-decoration: underline;">Prevención y Plan Alternativo </span>(Offline / Plan B): Disponer siempre de los recursos clave descargados en local (archivos PDF o secuencias didácticas de eXeLearning exportadas) para trabajar sin conexión en caso de caída de la red, junto con alternativas analógicas que garanticen la continuidad de la sesión.<br /></p>
+<p><span style="text-decoration: underline;">Resolución de Primer Nivel en el Aula</span>: Aplicar medidas básicas inmediatas a nivel docente (verificación de conexiones y cableado, reinicio de dispositivos, cambio de navegador web o uso de redes/puntos de acceso de respaldo) y apoyarse en la tutoría entre iguales para pequeños problemas de usuario (extravío de contraseñas o dudas de formato).<br /></p>
+<p><span style="text-decoration: underline;">Canalización Institucional</span> (Soporte Técnico): En caso de averías mecánicas, fallos de sistema o problemas graves de servidor, documentar la incidencia y derivarla de inmediato a la Coordinación TDE del centro o al soporte técnico oficial de la Consejería (CAUCE/Séneca).</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793273018284-8026dbznh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" class=\"exe-table\" style=\"width: 100%; border-color: #000000; border-style: solid; margin-left: auto; margin-right: auto;\">\n<tbody>\n<tr>\n<td style=\"width: 19.980971%; text-align: center;\">\n<h6><strong>TAREA</strong></h6>\n</td>\n<td style=\"width: 19.980971%; text-align: center;\">\n<h6><strong>CRITERIO DE EVALUACIÓN</strong></h6>\n</td>\n<td style=\"width: 19.980971%; text-align: center;\">\n<h6><strong>AGRUPAMIENTO</strong></h6>\n</td>\n<td style=\"width: 19.980971%; text-align: center;\">\n<h6><strong>TIEMPO APROXIMADO</strong></h6>\n</td>\n<td style=\"width: 19.980971%; text-align: center;\">\n<h6><strong>HERRAMIENTA QUE SE LE SUGERIRÁ AL ALUMNADO</strong></h6>\n</td>\n</tr>\n<tr>\n<td style=\"width: 19.980971%; text-align: center;\"><strong>Tarea 1:</strong> Diagnóstico e identidad digital segura (acceso al muro inicial, lectura de normas de netiqueta y autoevaluación inicial de competencia digital).<br /></td>\n<td style=\"width: 19.980971%; text-align: center;\"><strong>Criterio 1.1:</strong> Utilizar las tecnologías digitales de manera segura, responsable y crítica en la búsqueda, selección y gestión de la información.<br /></td>\n<td style=\"width: 19.980971%; text-align: center;\"> Individual<br /></td>\n<td style=\"width: 19.980971%; text-align: center;\"> 2 sesiones (100 min)<br /></td>\n<td style=\"width: 19.980971%; text-align: center;\"> Padlet / Google Workspace (para diagnóstico y lectura)<br /></td>\n</tr>\n<tr>\n<td style=\"width: 19.980971%; text-align: center;\"><strong>Tarea 2:</strong> Curación y análisis crítico de contenidos (revisión de píldoras explicativas/vídeos y cotejo de información con licencias abiertas).<br /></td>\n<td style=\"width: 19.980971%; text-align: center;\"><strong>Criterio 2.3:</strong> Filtrar y contrastar la información obtenida en entornos digitales para la elaboración de productos propios.<br /></td>\n<td style=\"width: 19.980971%; text-align: center;\"> Pequeño grupo<br /></td>\n<td style=\"width: 19.980971%; text-align: center;\"> 4 sesiones (200 min)<br /></td>\n<td style=\"width: 19.980971%; text-align: center;\"> Canva / Genially / eXeLearning (H5P)<br /></td>\n</tr>\n<tr>\n<td style=\"width: 19.980971%; text-align: center;\"><strong>Tarea 3:</strong> Elaboración interactiva del producto final (diseño de una síntesis visual o realización de actividades interactivas sobre la unidad).<br /></td>\n<td style=\"width: 19.980971%; text-align: center;\"><strong>Criterio 3.2:</strong> Producir contenidos digitales en distintos formatos aplicando pautas de accesibilidad y respetando la propiedad intelectual.<br /></td>\n<td style=\"width: 19.980971%; text-align: center;\"> Pequeño grupo<br /></td>\n<td style=\"width: 19.980971%; text-align: center;\"> 4 sesiones (200 min)<br /></td>\n<td style=\"width: 19.980971%; text-align: center;\"> Canva / Genially / eXeLearning (H5P)<br /></td>\n</tr>\n<tr>\n<td style=\"width: 19.980971%; text-align: center;\"><strong>Tarea 4:</strong> Difusión y coevaluación en entorno seguro (publicación del trabajo, feedback entre iguales con netiqueta y reflexión final).<br /></td>\n<td style=\"width: 19.980971%; text-align: center;\"><strong>Criterio 4.1:</strong> Comunicarse y colaborar en entornos digitales siguiendo las pautas de netiqueta e interacción positiva.<br /></td>\n<td style=\"width: 19.980971%; text-align: center;\"> Gran grupo / Individual<br /></td>\n<td style=\"width: 19.980971%; text-align: center;\"> 2 sesiones (100 min)<br /></td>\n<td style=\"width: 19.980971%; text-align: center;\"> Padlet / Moodle (Aula Virtual)<br /></td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>\n<p><strong>Para resolver con garantía las incidencias técnicas que puedan surgir durante la práctica docente con tecnologías en el aula, planteo un protocolo estructurado en tres niveles:</strong></p>\n<p><span style=\"text-decoration: underline;\">Prevención y Plan Alternativo </span>(Offline / Plan B): Disponer siempre de los recursos clave descargados en local (archivos PDF o secuencias didácticas de eXeLearning exportadas) para trabajar sin conexión en caso de caída de la red, junto con alternativas analógicas que garanticen la continuidad de la sesión.<br /></p>\n<p><span style=\"text-decoration: underline;\">Resolución de Primer Nivel en el Aula</span>: Aplicar medidas básicas inmediatas a nivel docente (verificación de conexiones y cableado, reinicio de dispositivos, cambio de navegador web o uso de redes/puntos de acceso de respaldo) y apoyarse en la tutoría entre iguales para pequeños problemas de usuario (extravío de contraseñas o dudas de formato).<br /></p>\n<p><span style=\"text-decoration: underline;\">Canalización Institucional</span> (Soporte Técnico): En caso de averías mecánicas, fallos de sistema o problemas graves de servidor, documentar la incidencia y derivarla de inmediato a la Coordinación TDE del centro o al soporte técnico oficial de la Consejería (CAUCE/Séneca).</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mvthidpj-jisx4r6m6</odePageId>
+  <odeParentPageId>page-mvth4404-fs1bkdt5q</odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mvthidpj-jisx4r6m6</odePageId>
+      <odeBlockId>block-mvthjbsf-w9akdr500</odeBlockId>
+      <blockName>Instrumentos de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvthidpj-jisx4r6m6</odePageId>
+          <odeBlockId>block-mvthjbsf-w9akdr500</odeBlockId>
+          <odeIdeviceId>idevice-1793274836845-7rw8wb709</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Enlaces e instrumentos de evaluación:</strong></p>
+<p><span style="text-decoration: underline;" title="">Instrumento 1</span> (Rúbrica): Diseñada para la evaluación del producto final e interacción en Moodle/Seneca. Para visualizar la rúbrica pulse <a href="https://drive.google.com/file/d/1YOtio2XhfaEjibf8jDmbDnIb-bYS_8a4/view?usp=share_link" target="_blank" rel="noopener">aquí</a>.</p>
+<p><span style="text-decoration: underline;" title="">Instrumento 2</span> (Autoevaluación y Feedback Docente): <a href="https://forms.gle/ETZwtpNxcXgQihzo6" target="_blank" rel="noopener">Cuestionario Google Forms</a>.<br /></p>
+<p>Instrumento 3 (<a href="https://drive.google.com/file/d/1CDXCL-DZZj2yIGMRiltgLZyYKZiit472/view?usp=share_link" target="_blank" title="" rel="noopener">Diana de evaluación Digital</a>): Aplicada sobre el muro público de Padlet para medir el cumplimiento del Criterio 4.1 (Netiqueta).<br /></p>
+<p><strong>Resumen de la estrategia de evaluación e integración de datos:</strong></p>
+<p>Reflexión sobre lo que evalúa cada instrumento: La rúbrica evalúa el logro criterial (Crit 1.1, 2.3 y 3.2); la diana de evaluación mide la netiqueta y colaboración entre iguales (Crit 4.1); y el Google Form recoge la percepción del proceso, autovaloración digital y feedback docente.<br />Tratamiento de variables y automatización: Para gestionar el absentismo derivado de la campaña de la aceituna en Jaén, los datos se recogen de manera asíncrona. Se automatiza la triangulación asignando un 60% a la heteroevaluación (rúbrica), un 20% a la coevaluación (diana) y un 20% al proceso y autoevaluación (Google Forms), volcando los resultados en el Cuaderno de Séneca.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793274836845-7rw8wb709","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Enlaces e instrumentos de evaluación:</strong></p>\n<p><span style=\"text-decoration: underline;\" title=\"\">Instrumento 1</span> (Rúbrica): Diseñada para la evaluación del producto final e interacción en Moodle/Seneca. Para visualizar la rúbrica pulse <a href=\"https://drive.google.com/file/d/1YOtio2XhfaEjibf8jDmbDnIb-bYS_8a4/view?usp=share_link\" target=\"_blank\" rel=\"noopener\">aquí</a>.</p>\n<p><span style=\"text-decoration: underline;\" title=\"\">Instrumento 2</span> (Autoevaluación y Feedback Docente): <a href=\"https://forms.gle/ETZwtpNxcXgQihzo6\" target=\"_blank\" rel=\"noopener\">Cuestionario Google Forms</a>.<br /></p>\n<p>Instrumento 3 (<a href=\"https://drive.google.com/file/d/1CDXCL-DZZj2yIGMRiltgLZyYKZiit472/view?usp=share_link\" target=\"_blank\" title=\"\" rel=\"noopener\">Diana de evaluación Digital</a>): Aplicada sobre el muro público de Padlet para medir el cumplimiento del Criterio 4.1 (Netiqueta).<br /></p>\n<p><strong>Resumen de la estrategia de evaluación e integración de datos:</strong></p>\n<p>Reflexión sobre lo que evalúa cada instrumento: La rúbrica evalúa el logro criterial (Crit 1.1, 2.3 y 3.2); la diana de evaluación mide la netiqueta y colaboración entre iguales (Crit 4.1); y el Google Form recoge la percepción del proceso, autovaloración digital y feedback docente.<br />Tratamiento de variables y automatización: Para gestionar el absentismo derivado de la campaña de la aceituna en Jaén, los datos se recogen de manera asíncrona. Se automatiza la triangulación asignando un 60% a la heteroevaluación (rúbrica), un 20% a la coevaluación (diana) y un 20% al proceso y autoevaluación (Google Forms), volcando los resultados en el Cuaderno de Séneca.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mvtho6l5-llldl3zvc</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mvtho6l5-llldl3zvc</odePageId>
+      <odeBlockId>block-mvtho7zo-s1np49t8u</odeBlockId>
+      <blockName>Créditos y autoría</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvtho6l5-llldl3zvc</odePageId>
+          <odeBlockId>block-mvtho7zo-s1np49t8u</odeBlockId>
+          <odeIdeviceId>idevice-1793275065203-x1ljrommu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="text-decoration: underline;">Autoría</span>: Manuel Jesús Carrasco Fuentes.</p>
+<p><span style="text-decoration: underline;">Descripción</span>: Proyecto didáctico interactivo enfocado a la competencia digital para el nivel de Educación Secundaria de Personas Adultas (ESPA Nivel II). Diseñado para estructurar el aprendizaje asíncrono, la curación de contenidos, la colaboración y la evaluación criterial mediante estrategias flexibles.</p>
+<p><span style="text-decoration: underline;">Licencia</span>: Creative Commons - compartir igual 4.0" (CC BY-SA 4.0).</p>
+<p><a href="https://drive.google.com/file/d/1VXc64tsVCJ80xs2ZEjUKLYVyMiIOWP4z/view?usp=share_link" target="_blank" rel="noopener" title="">Descarga del archivo editable</a>.</p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793275065203-x1ljrommu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"text-decoration: underline;\">Autoría</span>: Manuel Jesús Carrasco Fuentes.</p>\n<p><span style=\"text-decoration: underline;\">Descripción</span>: Proyecto didáctico interactivo enfocado a la competencia digital para el nivel de Educación Secundaria de Personas Adultas (ESPA Nivel II). Diseñado para estructurar el aprendizaje asíncrono, la curación de contenidos, la colaboración y la evaluación criterial mediante estrategias flexibles.</p>\n<p><span style=\"text-decoration: underline;\">Licencia</span>: Creative Commons - compartir igual 4.0\" (CC BY-SA 4.0).</p>\n<p><a href=\"https://drive.google.com/file/d/1VXc64tsVCJ80xs2ZEjUKLYVyMiIOWP4z/view?usp=share_link\" target=\"_blank\" rel=\"noopener\" title=\"\">Descarga del archivo editable</a>.</p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
